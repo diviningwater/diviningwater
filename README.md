@@ -14,7 +14,7 @@
 [![Donate Badge](https://img.shields.io/badge/Buy%20me%20a%20coffee-blue.svg)](https://www.buymeacoffee.com/RuiGao)
 -->
 
-
+I am an associate professor at Utah State University, focused in irrigation, agriculture, drones, and satellites [link](https://engineering.usu.edu/cee/people/faculty/torres-alfonso). 
 [Rui](https://www.researchgate.net/profile/Rui-Gao-55) obtained his Ph.D. degree at [Utah Water Research Laboratory](https://uwrl.usu.edu/), [Department of Civil & Environmental Engineering](https://engineering.usu.edu/cee/), Utah State University, worked with Dr. [Alfonso Torres-Rua](https://engineering.usu.edu/cee/people/faculty/torres-alfonso). Rui's Ph.D. dissertation relates to California vineyard water status and stress estimation using high-resolution UAV information and eddy-covariance flux tower data. <br>
 
 ![GoogleScholar_CloudME](https://github.com/diviningwater/diviningwater/assets/51354367/93a671f9-b8d5-4e5b-8cc4-46fa60e9f77b)
