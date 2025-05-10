@@ -1,7 +1,7 @@
 ## Alfonso Torres-Rua
 
 [![GitHub Badge](https://img.shields.io/github/followers/diviningwater?style=social)](https://github.com/diviningwater?tab=followers)
-![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=diviningwater.diviningwater)<br>
+![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=diviningwater.diviningwater)
 [![Google Scholar Badge](https://img.shields.io/badge/GoogleScholar-blue)](https://scholar.google.com/citations?hl=en&pli=1&user=hTG3MWUAAAAJ)
 <!--
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-green)](https://www.researchgate.net/profile/Rui-Gao-55)
