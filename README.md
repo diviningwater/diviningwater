@@ -24,11 +24,6 @@ The research conducted by my lab, [The Agricola Reseach Team](https://github.com
 
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=diviningwater&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diviningwater&hide=javascript,go,html)
-
-
-
 ## Contact Information
 For more information, you can reach Professor Alfonso Torres-Rua at:
 - **Email**: alfonso.torres@usu.edu
